@@ -10,6 +10,7 @@
     "start": "node packages/react-scripts/scripts/start.js",
     "test": "node packages/react-scripts/scripts/test.js --env=jsdom"
   },
+  
   "devDependencies": {
     "babel-eslint": "7.1.0",
     "eslint": "3.8.1",
